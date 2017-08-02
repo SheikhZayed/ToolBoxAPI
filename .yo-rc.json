@@ -30,6 +30,7 @@
     "jhipsterVersion": "4.6.2",
     "packageFolder": "io/github/ashif",
     "jwtSecretKey": "4568f1be0e99a722fbff7ddfc0b1fe8bbaff8b53",
-    "jhiPrefix": "jhi"
+    "jhiPrefix": "jhi",
+    "herokuAppName": "tool-box-api"
   }
 }
